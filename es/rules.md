@@ -18,7 +18,7 @@
 	1. Penalizacion por la muerte de un kerbal esta ligada a su experiencia.
 	2. La penalizaci�n base es de 250K, Adicionalmente por cada estrella que tenga el kerbal se a�adir� 100K.
 6. Time Warp
-	1. Cada vez que se inicia el juego por primera vez un dia, se debe usar el time warp para avanzar 4 dias en el futuro (1 dia de KSP = 6 horas. 4 dias de KSP = 24 horas)
+	1. Cada vez que se inicia el juego por primera vez un dia, se debe usar el time warp para avanzar 8 dias en el futuro (1 dia de KSP = 6 horas. 4 dias de KSP = 24 horas)
 	2. Si una maniobra esta planeada en una mision, se parar� el time warp, el time warp se parar� hasta que la maniobra se complete.
 	3. Prohibido el timewarp interplanetario, el time warp est� permitido dentro de la esfera de influencia del planeta local (SOI) .
 7. Financiacion/Objetivos del programa:
