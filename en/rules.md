@@ -18,7 +18,7 @@
 	1. Penalty amount is base off of kerbal experience.
 	2. Base $ penalty amount 250K, Additional 100K for each star a Kerbal has.
 6. Time Warp
-	1. Save must be timewarped 4 days into the future every time it is loaded for streaming. (1 KSP day = 6 hours. 4 KSP Days = 24 hrs)
+	1. Save must be timewarped 8 days into the future every time it is loaded for streaming. (1 KSP day = 6 hours. 4 KSP Days = 24 hrs)
 	2. If a burn is planned on a mission during the timewarp then the timewarping will be stopped until after the burn has been done.
 	3. No Interplanetary timewarp, timewarp is unrestricted in a local planet's SOI.
 7. Funding/Program Goals:
